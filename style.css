@@ -1,0 +1,13 @@
+/*phil welsby 14 aug 2021 - playing with Audio*/
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn1 {
+    background-color: lightcoral;
+    margin: 50px;
+    font-size: 30px;
+    border-radius: 5px;
+}
